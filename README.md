@@ -58,6 +58,3 @@ Streamlit, FastAPI, Flask, Render, HuggingFace Spaces
 ---
 
 > _“I design intelligent systems that are practical, reliable, and impactful.”_
-
-
-> “I design intelligent systems that are practical, reliable, and impactful.”
