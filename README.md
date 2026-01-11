@@ -1,8 +1,7 @@
 # Hi 👋, I'm Isaiah Samuel  
-### Data Scientist | Machine Learning Engineer | AI & Deep Learning Enthusiast
+### Data Scientist | Machine Learning Engineer | AI & Deep Learning Engineer
 
-I build intelligent systems that solve real-world problems.  
-My focus is on Machine Learning, Deep Learning (CNNs & Transformers), and deploying AI applications that create practical value across industries.
+I build practical AI, machine learning, and data analytics solutions that help businesses make better decisions, automate processes, and grow revenue.
 
 
 ### 🎓 Education
